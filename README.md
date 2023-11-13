@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="" "pt-br"
+<head>
+    <meta charset="UTF-8">
+    <title> soja </title>
+    <link rel= "stylesheer" href="style.css">
+</head>
+<body>
+ <h1 id="titulo"> soja </h1>
+
+ <p class="texto"> 
 # 1-S-rie-Castelo
 Uma turma unida e engraçada 
 brincam e dão risada
