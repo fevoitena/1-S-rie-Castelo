@@ -4,4 +4,9 @@ body {background-color: #ffd900;}
     text-align: center;
     color: #ffd900;}
 
-    .texto {}
+    .texto {
+        font-size: 30px;
+        text-align: justify;
+        color: black;
+    
+    }
