@@ -1,8 +1,12 @@
-body {background-color: #ffd900;}
+body {
+    background-color: #00eeff;
+}
+
 #título {
     font-size: 80px;
     text-align: center;
-    color: #ffd900;}
+    color: #ffd900;
+}
 
     .texto {
         font-size: 30px;
