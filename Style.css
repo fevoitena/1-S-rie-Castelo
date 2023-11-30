@@ -8,6 +8,12 @@ body {
     color: #ffd900;
 }
 
+ header {
+    padding: 20px;
+    background-color: black;
+    border-bottom: 5px solid;
+ }
+
     .texto {
         font-size: 30px;
         text-align: justify;
