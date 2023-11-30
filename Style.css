@@ -12,15 +12,18 @@ body {
     padding: 20px;
     background-color: black;
     border-bottom: 5px solid;
+    font-size: 35px;
+    color: blue;
  }
 
-    .texto {
-        font-size: 30px;
+.texto {
+        font-size: 35px;
         text-align: justify;
         color: black;
     }
-    .listas1 {
+    
+.listas1 {
         font-size: 30px;
         text-align: center;
         list-style-position: inside;
-    }
+}
